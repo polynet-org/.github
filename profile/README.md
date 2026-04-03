@@ -47,7 +47,9 @@ To create powerful AI systems that:
 
 ## 📦 Projects
 
-> Coming soon — building in progress.
+| Repository | Focus |
+|----------|-------|
+| [Deep-Face-Net](https://github.com/polynet-org/Deep-Face-Net) | Real-time face swapping |
 
 ---
 
